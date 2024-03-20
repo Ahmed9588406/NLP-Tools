@@ -34,5 +34,10 @@ To get started with exploring the NLP tools and techniques in this repository, f
 ## Contributions
 Contributions to this repository are welcome! If you have additional NLP tools, techniques, code examples, or resources that you would like to contribute, please submit a pull request following the contribution guidelines.
 
+## About the Author
+This repository is maintained by Ahmed Alaa , an NLP enthusiast passionate about advancing the field of natural language processing and fostering collaboration within the NLP community.
+
+
+
 
 Happy NLP exploring!
